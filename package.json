@@ -1,0 +1,25 @@
+{
+  "name": "sharedboard",
+  "version": "1.0.0",
+  "description": "Shared board is realtime shared whiteboard. It uses socket.io to make it real time. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whiteboard",
+    "sharedboard",
+    "realtime",
+    "whiteboard",
+    "whiteboard",
+    "sharing",
+    "socket.io",
+    "whiteboard"
+  ],
+  "author": "Navjot Dhanawat <navjotdhanawat@gmail.com> (http://www.navjotdhanawat.com)",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.0.2"
+  }
+}
