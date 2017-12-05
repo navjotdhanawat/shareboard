@@ -20,6 +20,9 @@
   "author": "Navjot Dhanawat <navjotdhanawat@gmail.com> (http://www.navjotdhanawat.com)",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
     "socket.io": "^2.0.2"
   }
 }
